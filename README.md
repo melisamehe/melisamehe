@@ -6,7 +6,7 @@ Currently, I’m working on autonomous systems and full-stack applications.
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Engineering student passionate about web technologies and ai 
+- 🎓 Computer Engineering student passionate about web technologies and Ai 
 - 🧠 Experienced in MERN stack, ROS2, and AI-based applications  
 - 🌍 Currently exploring agentic AI systems and real-world automation projects  
 - 💬 Open to collaborations and innovative ideas!
