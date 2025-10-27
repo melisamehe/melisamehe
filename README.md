@@ -29,9 +29,10 @@ Currently, I’m working on autonomous systems and full-stack applications.
   <a href="https://github.com/melisamehe" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://medium.com/@melisamehentkas1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" />
-  </a>
+ <a href="https://medium.com/@melisamehenktas1" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
 </p>
 
 ### 📊 GitHub Stats  
