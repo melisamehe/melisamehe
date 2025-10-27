@@ -15,7 +15,7 @@ Currently, I’m working on autonomous systems and full-stack applications.
 🚀 Always learning, always building.
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,css,nodejs,react,redux,tailwind,javascript,git,github,html,mongodb,npm,postman,ubuntu,vscode&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,css,cpp,nodejs,react,redux,tailwind,javascript,git,github,html,mongodb,npm,postman,ubuntu,vscode&theme=dark&perline=6)](https://skillicons.dev)
 
 ### 📫 Connect with Me  
 
@@ -33,3 +33,15 @@ Currently, I’m working on autonomous systems and full-stack applications.
     <img src="https://skillicons.dev/icons?i=medium" />
   </a>
 </p>
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melisamehe&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisamehe&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melisamehe&theme=radical" />
+</p>
+
